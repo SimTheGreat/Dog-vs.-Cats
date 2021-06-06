@@ -4,7 +4,7 @@ ml project classifying dogs and cats
 get data from: https://www.kaggle.com/c/dogs-vs-cats/data
 
 the algo is not very accurate since it sometimes classifies dogs as cats, but it works most of the times
-(an example of the problem)
+(an example of the problem)<br>
 <img width="385" alt="Screen Shot 2021-06-06 at 12 36 19" src="https://user-images.githubusercontent.com/63498227/120921528-69738480-c6c4-11eb-9fa5-9cd3426bd7d7.png">
 
 
